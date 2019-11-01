@@ -1,1 +1,7 @@
-.pdf/
+.numpy/pdf/
+.pandas/pdf/
+.python_code/pdf/
+.Text_문자/pdf/
+.데이터_시각화/pdf/
+.데이터_전처리/pdf/
+.시계열_데이터/pdf/
